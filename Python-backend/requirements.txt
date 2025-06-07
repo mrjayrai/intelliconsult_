@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+joblib
+flask
+transformers
+spacy
+pdfplumber
+python-docx
+keybert
